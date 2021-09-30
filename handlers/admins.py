@@ -27,10 +27,10 @@ async def update_admin(client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Channel Support", url=f"https://t.me/ABOUTABHI"
+                        "Channel Support", url=f"https://t.me/darma_club"
                     ),
                     InlineKeyboardButton(
-                        "Created By", url=f"https://t.me/SNEHU_IS_MINE"
+                        "Created By", url=f"https://t.me/CRAZY_INFERNO_XD"
                     )
                 ]
             ]
